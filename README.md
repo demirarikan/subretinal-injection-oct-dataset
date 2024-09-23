@@ -1,6 +1,6 @@
 # OCT Dataset: Ex-vivo Open-Sky Porcine Eye Imaging
 
-This repository contains a dataset of **Optical Coherence Tomography (OCT)** images collected from **ex-vivo open-sky porcine eyes**. The images have been hand-labeled to identify three key surfaces:
+This repository contains a dataset of **Optical Coherence Tomography (OCT)** images collected from **ex-vivo open-sky porcine eyes** during robot assisted subretinal injections. The images have been hand-labeled to identify three key surfaces:
 
 1. **Needle (1)**
 2. **Internal Limiting Membrane (ILM) (2)**
