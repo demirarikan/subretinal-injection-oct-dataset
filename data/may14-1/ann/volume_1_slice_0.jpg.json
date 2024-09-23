@@ -1,0 +1,263 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1000
+    },
+    "objects": [
+        {
+            "id": 1560766206,
+            "classId": 13145456,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-20T22:22:21.543Z",
+            "updatedAt": "2024-05-20T22:22:24.797Z",
+            "tags": [],
+            "classTitle": "rpe",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        409
+                    ],
+                    [
+                        54,
+                        407
+                    ],
+                    [
+                        96,
+                        416
+                    ],
+                    [
+                        191,
+                        428
+                    ],
+                    [
+                        239,
+                        430
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1560766207,
+            "classId": 13145456,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-20T22:22:24.207Z",
+            "updatedAt": "2024-05-20T22:22:27.435Z",
+            "tags": [],
+            "classTitle": "rpe",
+            "points": {
+                "exterior": [
+                    [
+                        463,
+                        430
+                    ],
+                    [
+                        525,
+                        428
+                    ],
+                    [
+                        577,
+                        420
+                    ],
+                    [
+                        642,
+                        420
+                    ],
+                    [
+                        686,
+                        419
+                    ],
+                    [
+                        733,
+                        412
+                    ],
+                    [
+                        793,
+                        404
+                    ],
+                    [
+                        860,
+                        390
+                    ],
+                    [
+                        909,
+                        375
+                    ],
+                    [
+                        954,
+                        363
+                    ],
+                    [
+                        999,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1560766208,
+            "classId": 13145455,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-20T22:22:30.452Z",
+            "updatedAt": "2024-05-20T22:22:33.753Z",
+            "tags": [],
+            "classTitle": "ilm",
+            "points": {
+                "exterior": [
+                    [
+                        4,
+                        305
+                    ],
+                    [
+                        43,
+                        305
+                    ],
+                    [
+                        82,
+                        309
+                    ],
+                    [
+                        119,
+                        315
+                    ],
+                    [
+                        184,
+                        320
+                    ],
+                    [
+                        250,
+                        321
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1560766209,
+            "classId": 13145455,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-20T22:22:33.304Z",
+            "updatedAt": "2024-05-20T22:22:39.928Z",
+            "tags": [],
+            "classTitle": "ilm",
+            "points": {
+                "exterior": [
+                    [
+                        462,
+                        319
+                    ],
+                    [
+                        510,
+                        313
+                    ],
+                    [
+                        526,
+                        310
+                    ],
+                    [
+                        559,
+                        310
+                    ],
+                    [
+                        589,
+                        311
+                    ],
+                    [
+                        622,
+                        306
+                    ],
+                    [
+                        649,
+                        305
+                    ],
+                    [
+                        680,
+                        296
+                    ],
+                    [
+                        716,
+                        293
+                    ],
+                    [
+                        756,
+                        293
+                    ],
+                    [
+                        787,
+                        285
+                    ],
+                    [
+                        832,
+                        276
+                    ],
+                    [
+                        854,
+                        264
+                    ],
+                    [
+                        904,
+                        256
+                    ],
+                    [
+                        941,
+                        246
+                    ],
+                    [
+                        967,
+                        238
+                    ],
+                    [
+                        999,
+                        220
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1560766211,
+            "classId": 13145454,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-20T22:22:44.611Z",
+            "updatedAt": "2024-06-03T20:36:13.842Z",
+            "tags": [],
+            "classTitle": "tool",
+            "points": {
+                "exterior": [
+                    [
+                        271,
+                        0
+                    ],
+                    [
+                        384,
+                        149
+                    ],
+                    [
+                        456,
+                        242
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

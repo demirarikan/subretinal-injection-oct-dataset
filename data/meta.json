@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "title": "tool",
+            "description": "",
+            "shape": "line",
+            "color": "#D0021B",
+            "geometry_config": {},
+            "id": 13145454,
+            "hotkey": ""
+        },
+        {
+            "title": "ilm",
+            "description": "",
+            "shape": "line",
+            "color": "#7ED321",
+            "geometry_config": {},
+            "id": 13145455,
+            "hotkey": ""
+        },
+        {
+            "title": "rpe",
+            "description": "",
+            "shape": "line",
+            "color": "#4A90E2",
+            "geometry_config": {},
+            "id": 13145456,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}

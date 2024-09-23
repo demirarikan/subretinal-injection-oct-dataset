@@ -1,0 +1,177 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 1000
+    },
+    "objects": [
+        {
+            "id": 1560948616,
+            "classId": 13145454,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-21T18:42:09.845Z",
+            "updatedAt": "2024-05-21T18:42:17.185Z",
+            "tags": [],
+            "classTitle": "tool",
+            "points": {
+                "exterior": [
+                    [
+                        375,
+                        2
+                    ],
+                    [
+                        401,
+                        36
+                    ],
+                    [
+                        409,
+                        104
+                    ],
+                    [
+                        465,
+                        218
+                    ],
+                    [
+                        546,
+                        361
+                    ],
+                    [
+                        593,
+                        435
+                    ],
+                    [
+                        642,
+                        515
+                    ],
+                    [
+                        653,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1560948621,
+            "classId": 13145455,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-21T18:42:21.781Z",
+            "updatedAt": "2024-05-21T18:42:28.235Z",
+            "tags": [],
+            "classTitle": "ilm",
+            "points": {
+                "exterior": [
+                    [
+                        654,
+                        553
+                    ],
+                    [
+                        671,
+                        515
+                    ],
+                    [
+                        694,
+                        482
+                    ],
+                    [
+                        723,
+                        471
+                    ],
+                    [
+                        747,
+                        470
+                    ],
+                    [
+                        761,
+                        456
+                    ],
+                    [
+                        792,
+                        445
+                    ],
+                    [
+                        835,
+                        437
+                    ],
+                    [
+                        870,
+                        424
+                    ],
+                    [
+                        915,
+                        427
+                    ],
+                    [
+                        943,
+                        416
+                    ],
+                    [
+                        958,
+                        394
+                    ],
+                    [
+                        999,
+                        390
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1560948626,
+            "classId": 13145456,
+            "objectId": null,
+            "description": "",
+            "geometryType": "line",
+            "labelerLogin": "demirarikan",
+            "createdAt": "2024-05-21T18:42:32.013Z",
+            "updatedAt": "2024-05-21T18:42:35.309Z",
+            "tags": [],
+            "classTitle": "rpe",
+            "points": {
+                "exterior": [
+                    [
+                        655,
+                        652
+                    ],
+                    [
+                        711,
+                        628
+                    ],
+                    [
+                        767,
+                        611
+                    ],
+                    [
+                        821,
+                        607
+                    ],
+                    [
+                        871,
+                        593
+                    ],
+                    [
+                        923,
+                        579
+                    ],
+                    [
+                        964,
+                        565
+                    ],
+                    [
+                        999,
+                        567
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
