@@ -42,7 +42,7 @@ The images in this dataset are annotated using the [Supervisely](https://supervi
 │   ├── obj_class_to_machine_color.json  # Metadata for supervisely
 ├── notebooks/
 │   ├── visualize_labels.ipynb    # Notebook for visualizing the annotations
-│   ├── pytorch_dataloader.ipynb  # Example PyTorch Dataloader for the dataset
+│ 
 ├── README.md
 ```
 
